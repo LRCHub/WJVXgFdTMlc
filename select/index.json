@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Summer Gate",
+  "base_artist": "佐藤千亜妃",
+  "createdAt": "2026-03-11T13:42:35.819389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Summer Gate",
+      "artist": "CHIAKI SATO",
+      "has_synced": true,
+      "path": "select/01_Summer_Gate_CHIAKI_SATO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Summer Gate",
+      "artist": "佐藤千亜妃",
+      "has_synced": true,
+      "path": "select/02_Summer_Gate_佐藤千亜妃.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Summer Gate",
+      "artist": "CHIAKI SATO",
+      "has_synced": true,
+      "path": "select/03_Summer_Gate_CHIAKI_SATO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Summer Gate",
+      "artist": "佐藤千亜妃",
+      "has_synced": true,
+      "path": "select/04_Summer_Gate_佐藤千亜妃.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Summer Gate",
+      "artist": "佐藤千亜妃",
+      "has_synced": false,
+      "path": "select/pl_01_Summer_Gate_佐藤千亜妃.txt"
+    }
+  ]
+}
